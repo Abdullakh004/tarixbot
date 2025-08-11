@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a66966ab-01a5-43d5-a10e-8d1a6b8c3687" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tarixbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tarixbot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BlackJocker-r3d_hazem.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BlackJocker-r3d_hazemstart.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BlackJocker-r3d_hazem.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BlackJocker-r3d_hazemstart.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BrowserUpdateCheck/BrowserUpdater.tnt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BrowserUpdateCheckopen.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BrowserUpdater.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/BrowserUpdater.tnt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/Downloads.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheck/Games.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdateCheckopen.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdater.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/BrowserUpdater.tnt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/Downloads.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserUpdateCheck/Games.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarix.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarix.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30v7HkoT4Ev168k25iUMLthOXYB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tarix&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a66966ab-01a5-43d5-a10e-8d1a6b8c3687" name="Changes" comment="" />
+      <created>1754496106872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754496106872</updated>
+      <workItem from="1754496108008" duration="1503000" />
+      <workItem from="1754580546225" duration="2731000" />
+      <workItem from="1754941525020" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
