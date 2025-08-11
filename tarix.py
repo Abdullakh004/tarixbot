@@ -1,5 +1,5 @@
 from telebot import TeleBot
-from keyboard import generate_main_menu, sulolalar, tarixiy_shaxslar, davlat_xaritasi, davlat_xaritasi1,davlat_xaritasi2, davlat_xaritasi3,davlat_xaritasi4,davlat_xaritasi5,davlat_xaritasi6, davlat_xaritasi7
+from keyboard import *
 
 token = '7803988682:AAEpf9wwohOhFghajlRi2qtKmwWztgPUxz0'
 bot =TeleBot(token)
